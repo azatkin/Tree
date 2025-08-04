@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tree</string>
+
+    <string name="tree_root">Корневой узел</string>
+    <string name="add_child">Добавить</string>
+    <string name="add_child_emoji">➕ Добавить</string>
+    <string name="remove_node">Удалить</string>
+    <string name="remove_node_emoji">🗑 Удалить</string>
+    <string name="child_nodes">Дочерние узлы:</string>
+    <string name="no_children">Нет потомков</string>
+    <string name="desc_back">Назад</string>
+    <string name="desc_children_count">Потомков: %1$d</string>
+
+</resources>
